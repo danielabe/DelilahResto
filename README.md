@@ -36,3 +36,8 @@ Position yourself in your directory from a terminal and execute the following Sc
 `npm run app.js`
 ## Documentation 📚
 Check the file 📂 *spec.yaml*, here you will find the endpoints and requirements to use the API.
+
+## Repository
+Link to the repository on GitHub:
+
+https://github.com/danielabe/DelilahResto
