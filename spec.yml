@@ -303,7 +303,7 @@ paths:
       parameters:
       - in: "body"
         name: "body"
-        description: "User object to create"
+        description: "User object to create <br> Password format: minimum 4 characters, maximum 15 characters, at least 1 character, at least 1 digit, no blank spaces"
         required: true
         schema:
           $ref: "#/definitions/NewUser"
